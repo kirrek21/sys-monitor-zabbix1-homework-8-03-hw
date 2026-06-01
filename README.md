@@ -27,9 +27,10 @@
 `Приведите ответ в свободной форме........`
 
 1. ![alt text](img/{DD827EF3-47DC-4040-8151-A428DDA91D67}.png)
-2. ![alt text]({img/1873ADB3-ACD4-40C8-9719-E55E9ABF6D2A}.png)
-3. git commit -m "first_task"
-4. git push origin
+2. ![alt text](img/{1873ADB3-ACD4-40C8-9719-E55E9ABF6D2A}.png)
+3. git add .
+4. git commit -m "first_task"
+5. git push origin
 
 
 
